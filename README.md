@@ -1,0 +1,2 @@
+# Alpha
+Este Script tendrá como objetivo poder tener herramientas de análisis, defensivas y de ataca. Por ahora solo tiene herramientas ofensivas, con lo que, iremos sumando más útiles ha medida que pase el tiempo o colaboren. Podéis usarlo libremente mientras que deis derechos al autor. ADVERTENCIA: NO ME HAGO RESPONSABLE CON LO QUE HAGÁIS CON ESTE SCRIPT. ES CON FINES EDUCATIVOS Y NO DELICTIVOS.
